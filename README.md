@@ -4,7 +4,7 @@ Full-Stack [Vue](https://vuejs.org/) [Argon Design](https://www.creative-tim.com
 
 <br />
 
-![Express Vuejs Argon Design - Gif animated presentation.](https://github.com/app-generator/static/blob/master/products/argon-design-system-intro.gif?raw=true)
+![Express Vuejs Argon Design - Gif animated presentation.](https://github.com/app-generator/static/blob/master/products/fullstack-express-vuejs-argon-authentication-intro.gif?raw=true)
 
 <br />
 
